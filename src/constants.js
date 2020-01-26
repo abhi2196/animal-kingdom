@@ -28,6 +28,11 @@ export const TERRITORIES = [
     id: 'tundra',
     name: 'Tundra',
     superpower: 'Let it snow!'
+  },
+  {
+    id: 'winterfell',
+    name: 'Winterfell',
+    superpower: 'Righteous in Wrath!'
   }
 ]
 
@@ -1472,5 +1477,9 @@ export const OTHER_KINGDOMS = [
     {
         app: 'https://tender-hawking-e426f4.netlify.com',
         ruler: 'mcmonkeys1.id.blockstack'
+    },
+    {
+        app: 'https://animalkingdoms.netlify.com',
+        ruler: 'meepers.id.blockstack'
     }
  ]
